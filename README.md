@@ -31,7 +31,7 @@ A seguir estão os passos sugeridos para a preparação do seu grupo no início 
 
 # Documentação
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em https://tmsasaki.github.io/TEMPLATE_CC_M5.
+Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em https://tmsasaki.github.io/Template_CC_M5.
 
 
 # Artigo
